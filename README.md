@@ -11,9 +11,12 @@
 
 <h3 align="left" style="color: #c9d1d9;">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/anandhu a" target="blank">
+  <a href="https://www.linkedin.com/in/anandhu-a-b386a6256/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anandhu a" height="30" width="40" style="filter: invert(1);"/>
   </a>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandhugithub1&theme=dark" alt="anandhugithub1" />
 </p>
 
 <h3 align="left" style="color: #c9d1d9;">Languages and Tools:</h3>
@@ -74,9 +77,6 @@
   </a> 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandhugithub1&theme=dark" alt="anandhugithub1" />
-</p>
 
 </div>
 
