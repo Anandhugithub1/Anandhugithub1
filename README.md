@@ -3,9 +3,8 @@
 <h1 align="center" style="color: #c9d1d9;">Hi 👋, I'm Anandhu</h1>
 <h3 align="center" style="color: #c9d1d9;">A passionate full stack developer from India</h3>
 
-- 👨‍💻 My personal portfolio: [https://anandhu.tech/](https://anandhu.tech/)
+- 👨‍💻 My personal portfolio: [https://www.linkedin.com/in/anandhu-a-b386a6256/overlay/about-this-profile)
 
-- 📝 I regularly write articles on: [https://www.mallucricketupdates.online/](https://www.mallucricketupdates.online/)
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anandhu-a-b386a6256/overlay/about-this-profile/)
 
