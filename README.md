@@ -6,7 +6,7 @@
 - 👨‍💻 My personal portfolio: https://anandhua-freelancer.netlify.app/
 
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anandhu-a-b386a6256/overlay/about-this-profile/)
+- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/anandhu-a-b386a6256/overlay/about-this-profile/)
 
 <h3 align="left" style="color: #c9d1d9;">Connect with me:</h3>
 <p align="left">
